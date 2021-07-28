@@ -1,4 +1,4 @@
-![Artur Parpibaev Banner](https://raw.github.com/zonder129/zonder129/master/github.png)
+![Artur Parpibaev Banner](https://raw.github.com/zonder129/zonder129/master/banner.jpg)
 
 ## <img width="45" alt="about" src="https://raw.github.com/zonder129/zonder129/master/about.png"> More about me
 ```kotlin
